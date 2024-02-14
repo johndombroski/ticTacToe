@@ -1,0 +1,6 @@
+Name one or two features you’d like to implement
+No clicking on a square that has a value, change square color based on player X or O
+How would you implement those features? Write 2–3 sentences per feature
+For no double clicking: when clicked, check if the value is null, if not don't allow and don't update player
+For color coding: just check who the player was and style accordingly.
+Include your response in the “Roadmap of Future Improvements” section of the README of your GitHub repository for this project and attach the link here
